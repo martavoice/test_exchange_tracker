@@ -7,12 +7,12 @@ The main purpose was to build app with clean architecture. As functionality isn'
 I didn't create actual modules, just used packages - data, domain, presentation.
 
 # Libraries and Technologies
-Async operations - Kotlin Coroutines
-Data storage - Room
-DI - Koin
-UI - Jetpack Compose
-Navigation - Compose Navigation
-Network connection - Retrofit
+- Async operations - Kotlin Coroutines
+- Data storage - Room
+- DI - Koin
+- UI - Jetpack Compose
+- Navigation - Compose Navigation
+- Network connection - Retrofit
 
 # Next steps to improve
 - add unit tests
