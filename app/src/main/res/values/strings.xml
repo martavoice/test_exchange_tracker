@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exchange tracker</string>
+    <string name="add_new_currency">Add new currency</string>
+    <string name="no_items">You didn\'t select any currency to track rates. Please add at least one currency</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+</resources>

@@ -1,0 +1,10 @@
+package com.maltseva.exchangetracker.data.model
+
+import com.google.gson.annotations.SerializedName
+
+data class CurrencyDto(
+    @SerializedName("currency")
+    val currency: String,
+    @SerializedName("name")
+    val name: String,
+)
